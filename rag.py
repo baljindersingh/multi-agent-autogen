@@ -7,7 +7,7 @@ from langchain_community.vectorstores import Chroma
 # -----------------------------
 # Setup vector DB (Chroma)
 # -----------------------------
-def setup_vector_store(pdf_path="data/AI-Partner-Playbook.pdf", persist_dir="chroma_db"):
+def setup_vector_store(pdf_path="data/AI-Playbook.pdf", persist_dir="chroma_db"):
     print("📥 Loading and indexing document...")
     loader = PyPDFLoader(pdf_path)
     docs = loader.load()
