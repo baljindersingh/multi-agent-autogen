@@ -22,7 +22,7 @@ multi-agent-autogen/
 ├─ data/
 │  └─ AI-Playbook.pdf     # Example knowledge base (replace with your own docs)
 ├─ assets/
-│  ├─ autogen-architecture.txt
+│  └─ autogen-architecture.txt
 └─ requirements.txt
 ```
 
