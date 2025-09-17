@@ -22,9 +22,7 @@ multi-agent-autogen/
 ├─ data/
 │  └─ AI-Playbook.pdf     # Example knowledge base (replace with your own docs)
 ├─ assets/
-│  ├─ autogen-architecture.png
-│  ├─ autogen-flow.png
-│  └─ autogen-rag.png
+│  ├─ autogen-architecture.txt
 └─ requirements.txt
 ```
 
@@ -34,7 +32,7 @@ multi-agent-autogen/
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/<your-username>/multi-agent-autogen.git
+git clone https://github.com/baljindersingh/multi-agent-autogen.git
 cd multi-agent-autogen
 ```
 
@@ -145,4 +143,4 @@ See [requirements.txt](requirements.txt):
 ---
 
 ## 📬 Contact
-If you’d like to learn more about this project or how it ties into Microsoft’s **AI Business Solutions**, feel free to connect on [LinkedIn](https://linkedin.com/in/<your-profile>).  
+If you’d like to learn more about this project or how it ties into Microsoft’s **AI Business Solutions**, feel free to connect on [LinkedIn](https://linkedin.com/in/baljindersingh).  
