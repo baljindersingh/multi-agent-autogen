@@ -1,0 +1,17 @@
+# Core multi-agent framework
+pyautogen==0.2.19   # AutoGen library (import as pyautogen)
+
+# Vector database + retrieval
+chromadb==0.5.5
+langchain-community==0.2.6
+sentence-transformers==2.7.0
+
+# PDF document loader
+pypdf==4.2.0
+
+# Utilities
+numpy>=1.23.0
+pandas>=2.2.0
+
+# (Optional, if you want diagrams or visual flowcharts in assets/)
+graphviz==0.20.3
