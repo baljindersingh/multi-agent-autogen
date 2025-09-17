@@ -1,12 +1,11 @@
 # 🤖 Multi-Agent AI Portfolio (AutoGen + RAG + Evaluation)
 
-This repo demonstrates my hands-on work with **Agentic AI** using the [AutoGen framework](https://github.com/microsoft/autogen), **Ollama** for local LLMs, and **ChromaDB** for retrieval-augmented generation (RAG).  
+This repo demonstrates my hands-on work with **Agentic AI** using the [AutoGen framework](https://github.com/microsoft/autogen), **Ollama** for local LLMs, and **ChromaDB** for retrieval-augmented generation (RAG).
 
-It’s designed as a **technical portfolio** to showcase experience with:  
-- Multi-agent orchestration  
-- Retrieval pipelines (RAG)  
-- Evaluation frameworks for AI outputs  
-- Alignment with **Microsoft AI Business Solutions** (Copilot, Azure AI Foundry, M365 Agents, Dynamics 365, and more)  
+It’s designed as a **technical portfolio** to showcase experience with:
+- Multi-agent orchestration
+- Retrieval pipelines (RAG)
+- Evaluation frameworks for AI outputs
 
 ---
 
